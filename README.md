@@ -5,7 +5,7 @@ BrainSocket.php
 
 WebSockets for realtime event-driven Laravel apps.
 
-This Laravel 4 package provides an Artisan command to setup and run a WebSocket server
+This Laravel 5.4 package provides an Artisan command to setup and run a WebSocket server
 with [Ratchet](http://socketo.me/) inside of a Laravel app.
 
 Lets begin by installing this package through Composer. Edit your Laravel project's `composer.json` file and add the require `brainboxlabs/brain-socket`:
@@ -13,7 +13,7 @@ Lets begin by installing this package through Composer. Edit your Laravel projec
 ```json
 	"require": {
 		...
-		"brainboxlabs/brain-socket": "v1.0.0"
+		"subhra44/brain-socket": "v1.0.0"
 	},
 ```
 
